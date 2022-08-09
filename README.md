@@ -7,3 +7,6 @@
  python manage.py runserver
  
 iyi çalışmalar ....
+
+Arayüzdeki modullerin kullanımı için :
+
