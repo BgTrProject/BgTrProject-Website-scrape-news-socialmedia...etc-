@@ -13,7 +13,7 @@ Arayüzdeki modullerin kullanımı için :
 
 Tweepy modülü:
 
-![alt text](https://github.com/BgTrProject/BgTrProject-Website-scrape-news-socialmedia...etc-/tree/main/resimler/tweepy1.png?raw=false)
+![](/resimler/tweepy1.png)
 
 Tweepy modulu kullanılarak arama gerçekleştirme:
 Tweepy modulunde arama gerçekleştirmek için öncelikle kullanıcının tweepy’e kendi şifreleriyle
